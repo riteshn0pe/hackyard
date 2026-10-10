@@ -293,6 +293,4 @@ We are building toward a swarm that can carry routine customer work from one ste
 
 ---
 
-This repository presents B Swarm's product and technical design with the three diagrams. Expand the sections above for the engineering detail, or open an image for its full-size view.
-
 [Back to top](#b-swarm)
